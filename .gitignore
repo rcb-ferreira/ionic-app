@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
@@ -5,6 +6,9 @@ node_modules/
 platforms/
 plugins/
 
+=======
+node_modules/
+>>>>>>> f791de8e0891f57d03d22de82b41cc0025bb2483
 bower_components/
 *.log
 
