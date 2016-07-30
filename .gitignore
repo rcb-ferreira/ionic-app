@@ -4,3 +4,9 @@
 node_modules/
 platforms/
 plugins/
+
+bower_components/
+*.log
+
+build/
+dist/
